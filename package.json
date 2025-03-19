@@ -1,0 +1,9 @@
+{
+  "name": "youtube_clone",
+  "description": "Youtube App",
+  "author": "Mihraç Comart",
+  "version": "1.0.0",
+  "default": "index.html",
+  "scripts": {},
+  "license": "ISC"
+}
